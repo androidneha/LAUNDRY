@@ -16,13 +16,13 @@ Copy the remaining code into your root directory:
 
 for example, for windows
 
-**WAMP : c:/wamp/www/cias**
+**WAMP : c:/wamp/www/laundry**
 
 OR
 
 **XAMPP : c:/xampp/htdocs/cias**
 
-Open browser; goto [localhost/cias](http://localhost/cias) and press enter:
+Open browser; goto [localhost/laundry](http://localhost/laundry) and press enter:
 
 The login screen will appear.
 
@@ -31,18 +31,6 @@ To login, I am going to provide the user-email ids and password below.
 **System Administrator Account :**
 
 email : admin@codeinsect.com
-
-password : codeinsect
-
-**Manager Account :**
-
-email :  manager@codeinsect.com
-
-password : codeinsect
-
-**Employee Account :**
-
-email : employee@codeinsect.com
 
 password : codeinsect
 
